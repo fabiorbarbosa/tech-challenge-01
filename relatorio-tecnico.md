@@ -1,5 +1,25 @@
 # Relatório Técnico - Tech Challenge B
 
+## Solução de IA para apoio à triagem de indicativo de diabetes com Machine Learning
+
+**Pós-graduação:** IA para Devs  
+**Instituição:** FIAP + Alura  
+**Fase:** Fase 1  
+**Desafio:** Tech Challenge B  
+
+**Integrante:**  
+- Fábio Rodrigues Barbosa
+
+**Data:** 03/05/2026
+
+## Links da entrega
+
+Os artefatos principais deste projeto podem ser acessados nos links abaixo:
+
+- **Repositório Git:** [https://github.com/fabiorbarbosa/tech-challenge-01](https://github.com/fabiorbarbosa/tech-challenge-01)
+- **Vídeo de demonstração:** [colocar link do vídeo]
+<div style="page-break-after: always;"></div>
+
 ## 1. Introdução
 
 Este projeto apresenta uma solução inicial de Inteligência Artificial aplicada ao apoio à triagem médica, com foco na classificação binária de indicativo de diabetes a partir de dados clínicos tabulares.
